@@ -184,19 +184,20 @@ Participated in hands-on training focused on Generative AI technologies and prac
 </table>
 
 ---
-
 ## 📜 Certifications
 
-### GitHub
+<p align="center">
 
-<img src="https://img.shields.io/badge/GitHub-Copilot-6C4AB6?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/BODLAMEGHANA-6097/3B0A1818332E9729?sharingId=D0DCC76F43A2D30C">
+<img src="https://img.shields.io/badge/GitHub%20Copilot-Verified-6C4AB6?style=for-the-badge&logo=github" />
+</a>
 
-### NPTEL
+<a href="https://www.credly.com/badges/88ecd1bc-056a-40f6-86a9-f1b6550700bb/public_url">
+<img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-Verified-5E4B8B?style=for-the-badge&logo=amazonaws" />
+</a>
 
-<img src="https://img.shields.io/badge/NPTEL-Introduction%20to%20Machine%20Learning-7B5CC6?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-
+</p>
 ---
-
 ## 🧩 Coding Profiles
 
 <p align="center">
